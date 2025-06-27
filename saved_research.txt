@@ -1,0 +1,11 @@
+'LangChain summary'
+---
+lakeFS blog post on LangChain benefits
+---
+Introduction | ️ LangChain: https://python.langchain.com/docs/introduction/Introduction to LangChain - GeeksforGeeks: https://www.geeksforgeeks.org/introduction-to-langchain/
+
+---
+'hammerhead shark information'
+---
+'Indian ocean news'
+---

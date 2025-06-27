@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchainhub
+duckduckgo-search==8.0.4
+wikipedia
+pydantic
+langchain-ollama
